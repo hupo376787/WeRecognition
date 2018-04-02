@@ -29,6 +29,9 @@ We are very glad to cooperate with other industries, including source licenses a
 11. New user center
 12. More features waiting for you to download and experience
 
+##### ===Download===
+![](https://www.microsoft.com/store/apps/9PDSNS7X9ST9)
+
 
 ![](https://github.com/hupo376787/WeRecognition/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20171219181144.png)
 ![](https://github.com/hupo376787/WeRecognition/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20171229183131.png)
